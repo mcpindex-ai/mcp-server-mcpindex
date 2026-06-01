@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository has moved.** The source for `mcp-server-mcpindex` now lives in
+> the mcpindex monorepo: **https://github.com/mcpindex-ai/mcpindex-web/tree/main/mcp-server-mcpindex**
+>
+> This standalone repo was an early `0.1.0` snapshot and is archived (read-only).
+> Install the current package from npm: `npm install -g mcp-server-mcpindex`.
+
 # mcp-server-mcpindex
 
 > An MCP server for finding MCP servers.
